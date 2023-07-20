@@ -41,12 +41,12 @@
 <hr>
 
 ### **1er grupo de Dashboard**
-![alt text](1.png)
+![alt text](1.PNG)
 
 
 ### **2do grupo de Dashboard**
  
-<img src="2.png"  height=500>
+<img src="2.PNG"  height=500>
 
 <hr>
 
