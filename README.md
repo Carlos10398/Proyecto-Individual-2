@@ -41,15 +41,15 @@
 <hr>
 
 ### **1er grupo de Dashboard**
-![alt text](1.PNG)
+![alt text](1erdashboard.PNG)
 
 
 ### **2do grupo de Dashboard**
  
-<img src="2.PNG"  height=500>
+<img src="2dodashboard.PNG"  height=500>
 
 <hr>
-
+<img src="3erdashboard.PNG"  height=500>
 ## *PREGUNTAS PLANTEADAS*
 
 ### 1. ¿Cuáles fueron las provincias argentinas que experimentaron el mayor crecimiento en la adopción de banda ancha de 2014 a 2022? 
