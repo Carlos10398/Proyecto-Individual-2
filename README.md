@@ -41,7 +41,7 @@
 <hr>
 
 ### **1er grupo de Dashboard**
-<img src="1.png"  height=500>
+![alt text](1.png)
 
 
 ### **2do grupo de Dashboard**
