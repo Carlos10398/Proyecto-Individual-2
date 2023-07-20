@@ -4,7 +4,6 @@
 
 # <h1 align=center>**`Data Analytics - Comportamiento de Tecnologias de Internet en Argentina - Carlos Vargas'**</h1>
 
-<p align="center">
 ![alt text](20372209.jpg)
 
 </p>
