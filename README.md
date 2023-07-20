@@ -1,4 +1,4 @@
-<img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p> high 600
+<img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p> 
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº2** </h1>
 
