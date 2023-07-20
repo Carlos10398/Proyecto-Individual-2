@@ -7,7 +7,6 @@
 <p align="center">
 ![alt text](20372209.jpg)
 
-
 </p>
 
 ## Te damos la bienvenida a este proyecto enfocado en explorar y analizar datos (EDA) y crear un panel de control en Power BI. Nuestro objetivo principal es realizar un análisis detallado que nos permita comprender el comportamiento del sector de acceso a Internet a nivel nacional.
